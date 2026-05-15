@@ -292,7 +292,7 @@ session_start();
         </footer>
 
         <!-- hsabckhsakhcvkh -->
-    <!-- NUHGROH KONTOL -->
+    <!-- NUHGROH KONTOL2 -->
     
 
     <script src="js/jquery.min.js"></script>
