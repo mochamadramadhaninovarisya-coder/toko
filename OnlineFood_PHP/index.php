@@ -4,8 +4,8 @@
 include("connection/connect.php");  
 error_reporting(0);  
 session_start(); 
-
 ?>
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -145,7 +145,7 @@ session_start();
                                         </svg>
                                     </div>
                                     <h3>Choose a restaurant</h3>
-                                    <p>We"ve got your covered with menus from a variety of delivery restaurants online.</p>
+                                    <p>We've got your covered with menus from a variety of delivery restaurants online.</p>
                                 </div>
                             </div>
                         </div>
@@ -158,7 +158,7 @@ session_start();
                                     </svg>
                                 </div>
                                 <h3>Choose a dish</h3>
-                                <p>We"ve got your covered with a variety of delivery restaurants online.</p>
+                                <p>We've got your covered with a variety of delivery restaurants online.</p>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-12 col-md-4 how-it-works-steps white-txt col3">
@@ -280,7 +280,7 @@ session_start();
                         <div class="col-xs-12 col-sm-4 address color-gray">
                                     <h5>Address</h5>
                                     <p>1086 Stockert Hollow Road, Seattle</p>
-                                    <h5>Phone: 75696969855</a></h5> </div>
+                                    <h5>Phone: 75696969855</h5> </div>
                                 <div class="col-xs-12 col-sm-5 additional-info color-gray">
                                     <h5>Addition informations</h5>
                                    <p>Join thousands of other restaurants who benefit from having partnered with us.</p>
